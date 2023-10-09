@@ -105,6 +105,10 @@
     .oneBtn::before {
          width: 600px;
     }
+    .oneBtn a {
+        text-decoration: none;
+        color: azure;
+    }
     .footer .contact {
         width: 60%;
     }
@@ -133,7 +137,7 @@
         background: rgb(0, 0, 40);
         top: 0;
         right: 0;
-        width: 380px;
+        width: 220px;
         height: 100%;
         display: flex;
         justify-content: center;
@@ -215,7 +219,7 @@
         width: 100%;
         height: 100%;
     }
-    .oneBtn span {
+    .oneBtn a {
         font-size: 16px;
     }
     .oneBtn::before {
@@ -250,7 +254,7 @@
         background: rgb(0, 0, 40);
         top: 0;
         right: 0;
-        width: 380px;
+        width: 150px;
         height: 100%;
         display: flex;
         justify-content: center;
@@ -332,7 +336,7 @@
         width: 100%;
         height: 100%;
     }
-    .oneBtn span {
+    .oneBtn a {
         font-size: 16px;
     }
     .oneBtn::before {

@@ -152,9 +152,10 @@ button span {
     overflow: hidden;
     transition: 0.9s;
 }
-.oneBtn span {
+.oneBtn a {
     z-index: 33;
-    
+    color: azure;
+    text-decoration: none;
 }
 .oneBtn::after {
     content: "";
