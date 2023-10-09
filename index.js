@@ -42,4 +42,4 @@ function animation() {
                 i++
             }
 }
-animation()
+// animation()

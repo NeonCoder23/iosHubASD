@@ -202,7 +202,7 @@ button span {
     align-items: center;
     margin-top: 50px;
     justify-content: center;
-    animation: animate5 25s linear infinite;
+    /* animation: animate5 25s linear infinite; */
 }
 .footer .contact {
     position: relative;
@@ -243,7 +243,7 @@ textarea {
 }
 .endFooter p {
     text-align: center;
-    background: linear-gradient(to top, #000016, teal);
+    background: linear-gradient(to top, teal, #000016);
     font-size: 16px;
     color: azure;
 }
